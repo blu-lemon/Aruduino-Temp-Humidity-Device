@@ -18,9 +18,10 @@ The repository contains the following files:
 
 ## Requirements
 
-- Arduino board (e.g., Uno, Mega)
+- Arduino board
 - DHT11 or DHT22 temperature and humidity sensor
 - I2C LCD display
+- Red, green and blue LEDs
 - Jumper wires
 - Breadboard
 
@@ -45,7 +46,7 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## License
 
-This project is licensed 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
